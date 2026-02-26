@@ -1,2 +1,2 @@
-# personal-website
-My personal website
+# Arya's personal website
+A repository for my personal website.
